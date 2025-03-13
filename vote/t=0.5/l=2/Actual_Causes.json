@@ -1,0 +1,1935 @@
+[
+    {
+        "Node": 1,
+        "Actual cause": 8,
+        "Contingency set": [
+            19,
+            36
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.8860535714918186,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 4,
+        "Actual cause": 2,
+        "Contingency set": [
+            3
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.951828010443974,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 6,
+        "Actual cause": 2,
+        "Contingency set": [
+            8,
+            28
+        ],
+        "DSC score": 0.013157894736842105,
+        "NMI score": 0.9358861667450129,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 7,
+        "Actual cause": 9,
+        "Contingency set": [
+            18
+        ],
+        "DSC score": 0.05161290322580645,
+        "NMI score": 0.7069526842614074,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 11,
+        "Actual cause": 3,
+        "Contingency set": [
+            8
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9550533654019451,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 12,
+        "Actual cause": 2,
+        "Contingency set": [
+            50
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9550533654019451,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 18,
+        "Actual cause": 7,
+        "Contingency set": [
+            8,
+            34
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9470439639655491,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 19,
+        "Actual cause": 1,
+        "Contingency set": [
+            8
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.951828010443974,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 26,
+        "Actual cause": 7,
+        "Contingency set": [
+            8,
+            31
+        ],
+        "DSC score": 0.013157894736842105,
+        "NMI score": 0.9514496689138326,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 28,
+        "Actual cause": 6,
+        "Contingency set": [
+            13
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9516081337074076,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 29,
+        "Actual cause": 50,
+        "Contingency set": [
+            64
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.948940261073363,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 31,
+        "Actual cause": 26,
+        "Contingency set": [
+            87
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.948940261073363,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 34,
+        "Actual cause": 8,
+        "Contingency set": [
+            9,
+            18
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9470439639655491,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 36,
+        "Actual cause": 1,
+        "Contingency set": [
+            22
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9550533654019451,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 37,
+        "Actual cause": 8,
+        "Contingency set": [
+            21,
+            23
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9470439639655491,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 39,
+        "Actual cause": 8,
+        "Contingency set": [
+            50
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9516081337074076,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 40,
+        "Actual cause": 8,
+        "Contingency set": [
+            22
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9516081337074076,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 42,
+        "Actual cause": 8,
+        "Contingency set": [
+            50
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9516081337074076,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 54,
+        "Actual cause": 47,
+        "Contingency set": [
+            60,
+            69
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.949449249346082,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 64,
+        "Actual cause": 13,
+        "Contingency set": [
+            29
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9516081337074076,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 65,
+        "Actual cause": 204,
+        "Contingency set": [
+            396
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9462910957213313,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 66,
+        "Actual cause": 20,
+        "Contingency set": [
+            49
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9516081337074076,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 67,
+        "Actual cause": 22,
+        "Contingency set": [
+            47
+        ],
+        "DSC score": 0.013157894736842105,
+        "NMI score": 0.9543913857568553,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 68,
+        "Actual cause": 204,
+        "Contingency set": [
+            266,
+            301
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9449453680820757,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 69,
+        "Actual cause": 45,
+        "Contingency set": [
+            54
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.948940261073363,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 72,
+        "Actual cause": 164,
+        "Contingency set": [
+            230,
+            496
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9255309639533649,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 75,
+        "Actual cause": 25,
+        "Contingency set": [
+            95,
+            112
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.949449249346082,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 82,
+        "Actual cause": 47,
+        "Contingency set": [
+            50
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.948940261073363,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 84,
+        "Actual cause": 90,
+        "Contingency set": [
+            196
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9491819418675831,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 87,
+        "Actual cause": 31,
+        "Contingency set": [
+            50
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9535793919007491,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 91,
+        "Actual cause": 47,
+        "Contingency set": [
+            56,
+            60
+        ],
+        "DSC score": 0.018779342723004695,
+        "NMI score": 0.9419054619921017,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 93,
+        "Actual cause": 57,
+        "Contingency set": [
+            59,
+            123
+        ],
+        "DSC score": 0.013157894736842105,
+        "NMI score": 0.9344937239748007,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 100,
+        "Actual cause": 25,
+        "Contingency set": [
+            56
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9535793919007491,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 110,
+        "Actual cause": 70,
+        "Contingency set": [
+            130,
+            170
+        ],
+        "DSC score": 0.06818181818181818,
+        "NMI score": 0.9463887425164558,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 111,
+        "Actual cause": 88,
+        "Contingency set": [
+            115,
+            135
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9475163361991381,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 112,
+        "Actual cause": 25,
+        "Contingency set": [
+            75
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.948940261073363,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 115,
+        "Actual cause": 88,
+        "Contingency set": [
+            111,
+            123
+        ],
+        "DSC score": 0.018779342723004695,
+        "NMI score": 0.9419054619921017,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 117,
+        "Actual cause": 9,
+        "Contingency set": [
+            53
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.948940261073363,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 126,
+        "Actual cause": 74,
+        "Contingency set": [
+            121
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9491819418675831,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 129,
+        "Actual cause": 53,
+        "Contingency set": [
+            178
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9491819418675831,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 135,
+        "Actual cause": 55,
+        "Contingency set": [
+            63,
+            111
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9386136413082499,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 137,
+        "Actual cause": 55,
+        "Contingency set": [
+            74,
+            98
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9386136413082499,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 138,
+        "Actual cause": 59,
+        "Contingency set": [
+            98
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9491819418675831,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 141,
+        "Actual cause": 55,
+        "Contingency set": [
+            108,
+            156
+        ],
+        "DSC score": 0.013157894736842105,
+        "NMI score": 0.9403650797905769,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 146,
+        "Actual cause": 25,
+        "Contingency set": [
+            124
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9535793919007491,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 151,
+        "Actual cause": 25,
+        "Contingency set": [
+            61,
+            63
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.949449249346082,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 152,
+        "Actual cause": 85,
+        "Contingency set": [
+            193
+        ],
+        "DSC score": 0.04157043879907621,
+        "NMI score": 0.9491819418675831,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 153,
+        "Actual cause": 216,
+        "Contingency set": [
+            248
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.6898686103143606,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 154,
+        "Actual cause": 225,
+        "Contingency set": [
+            306
+        ],
+        "DSC score": 0.031088082901554404,
+        "NMI score": 0.9513585643595825,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 157,
+        "Actual cause": 152,
+        "Contingency set": [
+            215
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.8607557755336592,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 158,
+        "Actual cause": 170,
+        "Contingency set": [
+            204
+        ],
+        "DSC score": 0.05034324942791762,
+        "NMI score": 0.9367993417852982,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 163,
+        "Actual cause": 13,
+        "Contingency set": [
+            57
+        ],
+        "DSC score": 0.018957345971563982,
+        "NMI score": 0.9494952355694123,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 165,
+        "Actual cause": 170,
+        "Contingency set": [
+            337,
+            351
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9509302904481356,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 167,
+        "Actual cause": 53,
+        "Contingency set": [
+            104
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9491819418675831,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 169,
+        "Actual cause": 105,
+        "Contingency set": [
+            123
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9491819418675831,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 172,
+        "Actual cause": 74,
+        "Contingency set": [
+            123
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9491819418675831,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 174,
+        "Actual cause": 123,
+        "Contingency set": [
+            178
+        ],
+        "DSC score": 0.013157894736842105,
+        "NMI score": 0.9544929922096652,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 175,
+        "Actual cause": 166,
+        "Contingency set": [
+            205
+        ],
+        "DSC score": 0.007142857142857143,
+        "NMI score": 0.9544929922096652,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 176,
+        "Actual cause": 57,
+        "Contingency set": [
+            114
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9491819418675831,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 179,
+        "Actual cause": 273,
+        "Contingency set": [
+            289
+        ],
+        "DSC score": 0.03116883116883117,
+        "NMI score": 0.9454258101829075,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 185,
+        "Actual cause": 121,
+        "Contingency set": [
+            186
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9491819418675831,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 186,
+        "Actual cause": 121,
+        "Contingency set": [
+            185
+        ],
+        "DSC score": 0.013157894736842105,
+        "NMI score": 0.9544929922096652,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 187,
+        "Actual cause": 133,
+        "Contingency set": [
+            143
+        ],
+        "DSC score": 0.05034324942791762,
+        "NMI score": 0.9523251376039239,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 196,
+        "Actual cause": 13,
+        "Contingency set": [
+            84
+        ],
+        "DSC score": 0.018823529411764704,
+        "NMI score": 0.9485332176461437,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 209,
+        "Actual cause": 170,
+        "Contingency set": [
+            204,
+            205
+        ],
+        "DSC score": 0.007142857142857143,
+        "NMI score": 0.9325344505812914,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 210,
+        "Actual cause": 233,
+        "Contingency set": [
+            257,
+            258
+        ],
+        "DSC score": 0.02127659574468085,
+        "NMI score": 0.9282664725431448,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 219,
+        "Actual cause": 230,
+        "Contingency set": [
+            247,
+            267
+        ],
+        "DSC score": 0.007142857142857143,
+        "NMI score": 0.9462352310441733,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 227,
+        "Actual cause": 154,
+        "Contingency set": [
+            214
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9612183830069093,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 231,
+        "Actual cause": 51,
+        "Contingency set": [
+            139
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.8282546949301485,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 234,
+        "Actual cause": 162,
+        "Contingency set": [
+            261
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9462910957213314,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 236,
+        "Actual cause": 193,
+        "Contingency set": [
+            319,
+            344
+        ],
+        "DSC score": 0.05034324942791762,
+        "NMI score": 0.9563336536125737,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 244,
+        "Actual cause": 170,
+        "Contingency set": [
+            317
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.945305294200722,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 246,
+        "Actual cause": 266,
+        "Contingency set": [
+            386
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9443194926801128,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 256,
+        "Actual cause": 199,
+        "Contingency set": [
+            260,
+            272
+        ],
+        "DSC score": 0.0071174377224199285,
+        "NMI score": 0.9374807090862028,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 261,
+        "Actual cause": 205,
+        "Contingency set": [
+            210
+        ],
+        "DSC score": 0.014234875444839857,
+        "NMI score": 0.9289102282917906,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 263,
+        "Actual cause": 170,
+        "Contingency set": [
+            205
+        ],
+        "DSC score": 0.013559322033898305,
+        "NMI score": 0.8571341688896863,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 269,
+        "Actual cause": 199,
+        "Contingency set": [
+            259
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9453052942007221,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 270,
+        "Actual cause": 216,
+        "Contingency set": [
+            233,
+            258
+        ],
+        "DSC score": 0.007142857142857143,
+        "NMI score": 0.9338902577692991,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 272,
+        "Actual cause": 170,
+        "Contingency set": [
+            256,
+            273
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9453052942007221,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 274,
+        "Actual cause": 261,
+        "Contingency set": [
+            284
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9443194926801128,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 276,
+        "Actual cause": 299,
+        "Contingency set": [
+            317
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9443194926801125,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 277,
+        "Actual cause": 130,
+        "Contingency set": [
+            170,
+            314
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9509302904481356,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 282,
+        "Actual cause": 219,
+        "Contingency set": [
+            281
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.828328321141093,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 284,
+        "Actual cause": 233,
+        "Contingency set": [
+            364
+        ],
+        "DSC score": 0.007142857142857143,
+        "NMI score": 0.9403375846278269,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 288,
+        "Actual cause": 247,
+        "Contingency set": [
+            257
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9443194926801128,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 291,
+        "Actual cause": 254,
+        "Contingency set": [
+            271
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9489594278665305,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 292,
+        "Actual cause": 281,
+        "Contingency set": [
+            468
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9443194926801125,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 297,
+        "Actual cause": 226,
+        "Contingency set": [
+            482
+        ],
+        "DSC score": 0.026385224274406333,
+        "NMI score": 0.9588954188373165,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 300,
+        "Actual cause": 273,
+        "Contingency set": [
+            299
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9443194926801125,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 306,
+        "Actual cause": 110,
+        "Contingency set": [
+            170
+        ],
+        "DSC score": 0.0639269406392694,
+        "NMI score": 0.9333454305828625,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 309,
+        "Actual cause": 148,
+        "Contingency set": [
+            257,
+            308
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9462910957213314,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 325,
+        "Actual cause": 199,
+        "Contingency set": [
+            256
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9453052942007221,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 326,
+        "Actual cause": 113,
+        "Contingency set": [
+            709
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9544050718028577,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 331,
+        "Actual cause": 134,
+        "Contingency set": [
+            356
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9462910957213314,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 334,
+        "Actual cause": 170,
+        "Contingency set": [
+            179
+        ],
+        "DSC score": 0.025974025974025976,
+        "NMI score": 0.9514073433555591,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 335,
+        "Actual cause": 170,
+        "Contingency set": [
+            197
+        ],
+        "DSC score": 0.02127659574468085,
+        "NMI score": 0.9072788159161657,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 349,
+        "Actual cause": 170,
+        "Contingency set": [
+            239
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9499448591573332,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 358,
+        "Actual cause": 230,
+        "Contingency set": [
+            285,
+            308
+        ],
+        "DSC score": 0.007142857142857143,
+        "NMI score": 0.74036113122676,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 359,
+        "Actual cause": 193,
+        "Contingency set": [
+            337
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9453052942007221,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 365,
+        "Actual cause": 170,
+        "Contingency set": [
+            350
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9499448591573332,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 374,
+        "Actual cause": 164,
+        "Contingency set": [
+            204
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9462910957213314,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 376,
+        "Actual cause": 287,
+        "Contingency set": [
+            641,
+            675
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9557006748880404,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 379,
+        "Actual cause": 285,
+        "Contingency set": [
+            412,
+            441
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.951946778942796,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 390,
+        "Actual cause": 552,
+        "Contingency set": [
+            567,
+            673
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9668988544838402,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 391,
+        "Actual cause": 380,
+        "Contingency set": [
+            536,
+            619
+        ],
+        "DSC score": 0.021333333333333333,
+        "NMI score": 0.93329869842781,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 395,
+        "Actual cause": 230,
+        "Contingency set": [
+            289,
+            299
+        ],
+        "DSC score": 0.03116883116883117,
+        "NMI score": 0.9514073433555591,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 403,
+        "Actual cause": 545,
+        "Contingency set": [
+            550,
+            606
+        ],
+        "DSC score": 0.019801980198019802,
+        "NMI score": 0.9204909279575634,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 418,
+        "Actual cause": 481,
+        "Contingency set": [
+            482
+        ],
+        "DSC score": 0.05405405405405406,
+        "NMI score": 0.9246418593592547,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 427,
+        "Actual cause": 536,
+        "Contingency set": [
+            568
+        ],
+        "DSC score": 0.021164021164021163,
+        "NMI score": 0.9545395716527899,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 457,
+        "Actual cause": 550,
+        "Contingency set": [
+            704
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.8634397468294303,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 459,
+        "Actual cause": 380,
+        "Contingency set": [
+            536
+        ],
+        "DSC score": 0.015915119363395226,
+        "NMI score": 0.9511725221731835,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 468,
+        "Actual cause": 292,
+        "Contingency set": [
+            426,
+            428
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9562253131309277,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 470,
+        "Actual cause": 482,
+        "Contingency set": [
+            536,
+            538
+        ],
+        "DSC score": 0.009828009828009828,
+        "NMI score": 0.9298851151322826,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 474,
+        "Actual cause": 228,
+        "Contingency set": [
+            361
+        ],
+        "DSC score": 0.025806451612903226,
+        "NMI score": 0.8213898889665033,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 483,
+        "Actual cause": 230,
+        "Contingency set": [
+            273,
+            447
+        ],
+        "DSC score": 0.046753246753246755,
+        "NMI score": 0.9230092780405579,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 488,
+        "Actual cause": 715,
+        "Contingency set": [
+            783
+        ],
+        "DSC score": 0.007142857142857143,
+        "NMI score": 0.9518644480194596,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 494,
+        "Actual cause": 273,
+        "Contingency set": [
+            370
+        ],
+        "DSC score": 0.015706806282722512,
+        "NMI score": 0.9298851151322826,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 497,
+        "Actual cause": 396,
+        "Contingency set": [
+            448
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9453751428964067,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 502,
+        "Actual cause": 368,
+        "Contingency set": [
+            377,
+            447
+        ],
+        "DSC score": 0.006756756756756757,
+        "NMI score": 0.9039991988502061,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 518,
+        "Actual cause": 297,
+        "Contingency set": [
+            380
+        ],
+        "DSC score": 0.0213903743315508,
+        "NMI score": 0.9246096849179455,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 527,
+        "Actual cause": 273,
+        "Contingency set": [
+            447
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9443194926801125,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 529,
+        "Actual cause": 411,
+        "Contingency set": [
+            526,
+            538
+        ],
+        "DSC score": 0.02127659574468085,
+        "NMI score": 0.9346434916761375,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 539,
+        "Actual cause": 392,
+        "Contingency set": [
+            416,
+            449
+        ],
+        "DSC score": 0.006802721088435374,
+        "NMI score": 0.917798057543788,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 540,
+        "Actual cause": 431,
+        "Contingency set": [
+            484
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9544050718028577,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 556,
+        "Actual cause": 418,
+        "Contingency set": [
+            558
+        ],
+        "DSC score": 0.00980392156862745,
+        "NMI score": 0.9465159233276388,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 566,
+        "Actual cause": 425,
+        "Contingency set": [
+            536
+        ],
+        "DSC score": 0.00980392156862745,
+        "NMI score": 0.9465159233276388,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 581,
+        "Actual cause": 562,
+        "Contingency set": [
+            568
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9473727011038032,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 584,
+        "Actual cause": 459,
+        "Contingency set": [
+            482
+        ],
+        "DSC score": 0.015915119363395226,
+        "NMI score": 0.9511725221731835,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 593,
+        "Actual cause": 477,
+        "Contingency set": [
+            536,
+            538
+        ],
+        "DSC score": 0.009828009828009828,
+        "NMI score": 0.8972706102619028,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 614,
+        "Actual cause": 646,
+        "Contingency set": [
+            856
+        ],
+        "DSC score": 0.045454545454545456,
+        "NMI score": 0.9211101112331536,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 615,
+        "Actual cause": 380,
+        "Contingency set": [
+            592
+        ],
+        "DSC score": 0.01904761904761905,
+        "NMI score": 0.9519542266885513,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 624,
+        "Actual cause": 538,
+        "Contingency set": [
+            636
+        ],
+        "DSC score": 0.00980392156862745,
+        "NMI score": 0.9465159233276388,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 629,
+        "Actual cause": 545,
+        "Contingency set": [
+            661
+        ],
+        "DSC score": 0.025477707006369428,
+        "NMI score": 0.7828168959812689,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 644,
+        "Actual cause": 692,
+        "Contingency set": [
+            729
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 650,
+        "Actual cause": 536,
+        "Contingency set": [
+            548
+        ],
+        "DSC score": 0.03773584905660377,
+        "NMI score": 0.939564547252715,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 652,
+        "Actual cause": 345,
+        "Contingency set": [
+            660,
+            673
+        ],
+        "DSC score": 0.0392156862745098,
+        "NMI score": 0.9088225167267299,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 661,
+        "Actual cause": 588,
+        "Contingency set": [
+            629
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.8054401455393784,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 672,
+        "Actual cause": 431,
+        "Contingency set": [
+            545,
+            588
+        ],
+        "DSC score": 0.006644518272425249,
+        "NMI score": 0.9463605337655933,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 683,
+        "Actual cause": 403,
+        "Contingency set": [
+            545
+        ],
+        "DSC score": 0.006644518272425249,
+        "NMI score": 0.7790357337312576,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 705,
+        "Actual cause": 550,
+        "Contingency set": [
+            617
+        ],
+        "DSC score": 0.08433734939759036,
+        "NMI score": 0.7818398162840312,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 706,
+        "Actual cause": 635,
+        "Contingency set": [
+            678,
+            738
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9659134913447757,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 708,
+        "Actual cause": 588,
+        "Contingency set": [
+            702
+        ],
+        "DSC score": 0.006644518272425249,
+        "NMI score": 0.8602345470485034,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 716,
+        "Actual cause": 736,
+        "Contingency set": [
+            820
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 719,
+        "Actual cause": 708,
+        "Contingency set": [
+            724
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 720,
+        "Actual cause": 668,
+        "Contingency set": [
+            670,
+            697
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9586025895607359,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 722,
+        "Actual cause": 677,
+        "Contingency set": [
+            856
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 723,
+        "Actual cause": 439,
+        "Contingency set": [
+            635
+        ],
+        "DSC score": 0.02631578947368421,
+        "NMI score": 0.9347216703264521,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 730,
+        "Actual cause": 419,
+        "Contingency set": [
+            479
+        ],
+        "DSC score": 0.016260162601626018,
+        "NMI score": 0.944471300479442,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 737,
+        "Actual cause": 856,
+        "Contingency set": [
+            878
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 743,
+        "Actual cause": 687,
+        "Contingency set": [
+            693
+        ],
+        "DSC score": 0.02631578947368421,
+        "NMI score": 0.942486133978489,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 747,
+        "Actual cause": 816,
+        "Contingency set": [
+            827
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 749,
+        "Actual cause": 646,
+        "Contingency set": [
+            736
+        ],
+        "DSC score": 0.006644518272425249,
+        "NMI score": 0.9597502091883703,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 761,
+        "Actual cause": 729,
+        "Contingency set": [
+            784,
+            795
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9659134913447757,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 764,
+        "Actual cause": 646,
+        "Contingency set": [
+            736,
+            784
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9253829319375771,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 770,
+        "Actual cause": 425,
+        "Contingency set": [
+            570
+        ],
+        "DSC score": 0.00980392156862745,
+        "NMI score": 0.9465159233276388,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 774,
+        "Actual cause": 762,
+        "Contingency set": [
+            815,
+            825
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9253829319375771,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 778,
+        "Actual cause": 659,
+        "Contingency set": [
+            765,
+            839
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9276113659046225,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 783,
+        "Actual cause": 488,
+        "Contingency set": [
+            715
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9506950979120699,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 787,
+        "Actual cause": 635,
+        "Contingency set": [
+            735
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 788,
+        "Actual cause": 781,
+        "Contingency set": [
+            803
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 789,
+        "Actual cause": 648,
+        "Contingency set": [
+            736,
+            829
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9333682979778457,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 799,
+        "Actual cause": 431,
+        "Contingency set": [
+            853,
+            864
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9104948706095994,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 805,
+        "Actual cause": 697,
+        "Contingency set": [
+            784,
+            859
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9253829319375771,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 806,
+        "Actual cause": 750,
+        "Contingency set": [
+            807,
+            831
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9586025895607359,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 813,
+        "Actual cause": 665,
+        "Contingency set": [
+            771
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 815,
+        "Actual cause": 763,
+        "Contingency set": [
+            774
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 827,
+        "Actual cause": 738,
+        "Contingency set": [
+            747,
+            762
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9253829319375771,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 828,
+        "Actual cause": 765,
+        "Contingency set": [
+            818
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 831,
+        "Actual cause": 742,
+        "Contingency set": [
+            806
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 833,
+        "Actual cause": 762,
+        "Contingency set": [
+            803
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 834,
+        "Actual cause": 136,
+        "Contingency set": [
+            431,
+            652
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.8698154748005686,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 842,
+        "Actual cause": 532,
+        "Contingency set": [
+            707
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9544050718028577,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 846,
+        "Actual cause": 697,
+        "Contingency set": [
+            740,
+            762
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9586025895607359,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 847,
+        "Actual cause": 820,
+        "Contingency set": [
+            829,
+            841
+        ],
+        "DSC score": 0.006644518272425249,
+        "NMI score": 0.9736152595711477,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 850,
+        "Actual cause": 452,
+        "Contingency set": [
+            841
+        ],
+        "DSC score": 0.006644518272425249,
+        "NMI score": 0.9629633037661544,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 854,
+        "Actual cause": 839,
+        "Contingency set": [
+            843,
+            853
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9659134913447757,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 860,
+        "Actual cause": 707,
+        "Contingency set": [
+            839
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 861,
+        "Actual cause": 839,
+        "Contingency set": [
+            872
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 862,
+        "Actual cause": 822,
+        "Contingency set": [
+            882
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 863,
+        "Actual cause": 452,
+        "Contingency set": [
+            822
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 865,
+        "Actual cause": 803,
+        "Contingency set": [
+            841
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9552399171360851,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 866,
+        "Actual cause": 853,
+        "Contingency set": [
+            856
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 869,
+        "Actual cause": 431,
+        "Contingency set": [
+            845,
+            859
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9586025895607359,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 870,
+        "Actual cause": 851,
+        "Contingency set": [
+            864
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 873,
+        "Actual cause": 765,
+        "Contingency set": [
+            785,
+            859
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9586025895607359,
+        "Responsibility score": 0.3333333333333333
+    },
+    {
+        "Node": 878,
+        "Actual cause": 737,
+        "Contingency set": [
+            776
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9520166250537585,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 882,
+        "Actual cause": 841,
+        "Contingency set": [
+            856,
+            862
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.9253829319375771,
+        "Responsibility score": 0.3333333333333333
+    }
+]

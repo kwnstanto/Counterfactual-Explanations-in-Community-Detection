@@ -1,0 +1,93 @@
+[
+    {
+        "Node": 3,
+        "Cause": 4,
+        "DSC score": 0.2,
+        "NMI score": 0.6173991511429829,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 10,
+        "Cause": 3,
+        "DSC score": 0,
+        "NMI score": 0.9574489168069552,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 12,
+        "Cause": 1,
+        "DSC score": 0,
+        "NMI score": 0.9590780336939992,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 13,
+        "Cause": 4,
+        "DSC score": 0,
+        "NMI score": 0.9574489168069552,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 18,
+        "Cause": 2,
+        "DSC score": 0,
+        "NMI score": 0.9574489168069552,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 20,
+        "Cause": 1,
+        "DSC score": 0,
+        "NMI score": 0.9590780336939992,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 22,
+        "Cause": 2,
+        "DSC score": 0,
+        "NMI score": 0.9574489168069552,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 24,
+        "Cause": 30,
+        "DSC score": 0.47619047619047616,
+        "NMI score": 0.8648713733507035,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 25,
+        "Cause": 28,
+        "DSC score": 0.3157894736842105,
+        "NMI score": 0.8839411230180733,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 26,
+        "Cause": 24,
+        "DSC score": 0.3157894736842105,
+        "NMI score": 0.8839411230180733,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 28,
+        "Cause": 24,
+        "DSC score": 0.4,
+        "NMI score": 0.8727641852517664,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 29,
+        "Cause": 32,
+        "DSC score": 0.0,
+        "NMI score": 0.8127715485638539,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 32,
+        "Cause": 29,
+        "DSC score": 0.2222222222222222,
+        "NMI score": 0.8127715485638539,
+        "Responsibility score": 1
+    }
+]

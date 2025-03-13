@@ -1,0 +1,3264 @@
+[
+    {
+        "Node": 5,
+        "Cause": 88,
+        "DSC score": 0.0,
+        "NMI score": 0.8352950589064269,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 10,
+        "Cause": 23,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 15,
+        "Cause": 20,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 17,
+        "Cause": 8,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 27,
+        "Cause": 8,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 30,
+        "Cause": 8,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 38,
+        "Cause": 199,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 41,
+        "Cause": 13,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 43,
+        "Cause": 35,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 44,
+        "Cause": 8,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 46,
+        "Cause": 8,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 48,
+        "Cause": 6,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 52,
+        "Cause": 26,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 62,
+        "Cause": 114,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 71,
+        "Cause": 13,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 73,
+        "Cause": 98,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 76,
+        "Cause": 50,
+        "DSC score": 0.026143790849673203,
+        "NMI score": 0.6915084544013979,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 77,
+        "Cause": 560,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 78,
+        "Cause": 166,
+        "DSC score": 0.0,
+        "NMI score": 0.8206166500647892,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 79,
+        "Cause": 20,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 80,
+        "Cause": 81,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 81,
+        "Cause": 76,
+        "DSC score": 0.013157894736842105,
+        "NMI score": 0.6920717373959187,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 83,
+        "Cause": 67,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 85,
+        "Cause": 152,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 86,
+        "Cause": 50,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 89,
+        "Cause": 88,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 92,
+        "Cause": 98,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 94,
+        "Cause": 57,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 96,
+        "Cause": 13,
+        "DSC score": 0.05670103092783505,
+        "NMI score": 0.6980550893048483,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 97,
+        "Cause": 47,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 99,
+        "Cause": 70,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 101,
+        "Cause": 56,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 102,
+        "Cause": 109,
+        "DSC score": 0.05167958656330749,
+        "NMI score": 0.7003822689899248,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 103,
+        "Cause": 195,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 106,
+        "Cause": 59,
+        "DSC score": 0.061696658097686374,
+        "NMI score": 0.6972559647231353,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 107,
+        "Cause": 88,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 109,
+        "Cause": 98,
+        "DSC score": 0.05194805194805195,
+        "NMI score": 0.6980539056844001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 116,
+        "Cause": 88,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 119,
+        "Cause": 238,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 127,
+        "Cause": 13,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 131,
+        "Cause": 130,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 132,
+        "Cause": 392,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 139,
+        "Cause": 231,
+        "DSC score": 0.23015873015873015,
+        "NMI score": 0.6994676403176748,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 140,
+        "Cause": 230,
+        "DSC score": 0.0,
+        "NMI score": 0.8206166500647892,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 142,
+        "Cause": 93,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 144,
+        "Cause": 356,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 145,
+        "Cause": 59,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 147,
+        "Cause": 717,
+        "DSC score": 0.29714285714285715,
+        "NMI score": 0.6854722960543554,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 149,
+        "Cause": 328,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 150,
+        "Cause": 25,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 155,
+        "Cause": 199,
+        "DSC score": 0.027874564459930314,
+        "NMI score": 0.9313753991476271,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 159,
+        "Cause": 120,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 160,
+        "Cause": 57,
+        "DSC score": 0.05167958656330749,
+        "NMI score": 0.7022129836466832,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 161,
+        "Cause": 166,
+        "DSC score": 0.0,
+        "NMI score": 0.7032293634564678,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 162,
+        "Cause": 128,
+        "DSC score": 0.05034324942791762,
+        "NMI score": 0.9339871991780049,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 166,
+        "Cause": 170,
+        "DSC score": 0.023255813953488372,
+        "NMI score": 0.864426778896652,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 168,
+        "Cause": 124,
+        "DSC score": 0.06201550387596899,
+        "NMI score": 0.6969228884735293,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 173,
+        "Cause": 247,
+        "DSC score": 0.0,
+        "NMI score": 0.7719591704821315,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 177,
+        "Cause": 389,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 178,
+        "Cause": 129,
+        "DSC score": 0.06266318537859007,
+        "NMI score": 0.8196592137956851,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 180,
+        "Cause": 264,
+        "DSC score": 0.017241379310344827,
+        "NMI score": 0.8203740309707811,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 181,
+        "Cause": 57,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 182,
+        "Cause": 356,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 183,
+        "Cause": 108,
+        "DSC score": 0.05759162303664921,
+        "NMI score": 0.8184210573822981,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 184,
+        "Cause": 121,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 188,
+        "Cause": 155,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 189,
+        "Cause": 106,
+        "DSC score": 0.05194805194805195,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 190,
+        "Cause": 13,
+        "DSC score": 0.05670103092783505,
+        "NMI score": 0.6818646703097047,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 192,
+        "Cause": 170,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 194,
+        "Cause": 166,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 195,
+        "Cause": 35,
+        "DSC score": 0.05922551252847381,
+        "NMI score": 0.9293848782383182,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 198,
+        "Cause": 174,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 200,
+        "Cause": 175,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 201,
+        "Cause": 205,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 203,
+        "Cause": 222,
+        "DSC score": 0,
+        "NMI score": 0.9995057829027001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 206,
+        "Cause": 199,
+        "DSC score": 0.0,
+        "NMI score": 0.9850677397138684,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 207,
+        "Cause": 13,
+        "DSC score": 0.05249343832020997,
+        "NMI score": 0.8203740309707811,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 208,
+        "Cause": 156,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 211,
+        "Cause": 228,
+        "DSC score": 0.0,
+        "NMI score": 0.9849273520977601,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 213,
+        "Cause": 197,
+        "DSC score": 0.0,
+        "NMI score": 0.9849273520977601,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 214,
+        "Cause": 51,
+        "DSC score": 0.04608294930875576,
+        "NMI score": 0.9512070005957413,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 217,
+        "Cause": 168,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 218,
+        "Cause": 536,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 220,
+        "Cause": 141,
+        "DSC score": 0.05249343832020997,
+        "NMI score": 0.8203740309707811,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 221,
+        "Cause": 207,
+        "DSC score": 0.05249343832020997,
+        "NMI score": 0.8203740309707811,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 222,
+        "Cause": 203,
+        "DSC score": 0,
+        "NMI score": 0.9995057829027001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 225,
+        "Cause": 155,
+        "DSC score": 0.014035087719298246,
+        "NMI score": 0.9422088879977634,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 226,
+        "Cause": 297,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 229,
+        "Cause": 130,
+        "DSC score": 0.009433962264150943,
+        "NMI score": 0.8532578098352666,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 232,
+        "Cause": 278,
+        "DSC score": 0.009433962264150943,
+        "NMI score": 0.8545620776893497,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 235,
+        "Cause": 323,
+        "DSC score": 0,
+        "NMI score": 0.9995057829027001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 238,
+        "Cause": 611,
+        "DSC score": 0.011904761904761904,
+        "NMI score": 0.8138038012414358,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 241,
+        "Cause": 341,
+        "DSC score": 0.02531645569620253,
+        "NMI score": 0.6980921032820075,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 242,
+        "Cause": 245,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 243,
+        "Cause": 715,
+        "DSC score": 0.008968609865470852,
+        "NMI score": 0.6980921032820075,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 245,
+        "Cause": 196,
+        "DSC score": 0.006493506493506494,
+        "NMI score": 0.82779526432511,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 249,
+        "Cause": 250,
+        "DSC score": 0.01694915254237288,
+        "NMI score": 0.8295183160952625,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 250,
+        "Cause": 249,
+        "DSC score": 0.01694915254237288,
+        "NMI score": 0.8295183160952625,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 251,
+        "Cause": 249,
+        "DSC score": 0.01694915254237288,
+        "NMI score": 0.8295183160952625,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 252,
+        "Cause": 186,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 253,
+        "Cause": 51,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 255,
+        "Cause": 204,
+        "DSC score": 0.0,
+        "NMI score": 0.9671050095328355,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 262,
+        "Cause": 550,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 264,
+        "Cause": 180,
+        "DSC score": 0,
+        "NMI score": 0.999319370711659,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 265,
+        "Cause": 180,
+        "DSC score": 0,
+        "NMI score": 0.999319370711659,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 267,
+        "Cause": 148,
+        "DSC score": 0.020066889632107024,
+        "NMI score": 0.9091221205990528,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 268,
+        "Cause": 270,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 278,
+        "Cause": 130,
+        "DSC score": 0.02127659574468085,
+        "NMI score": 0.8180689308188343,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 279,
+        "Cause": 237,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 283,
+        "Cause": 372,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 286,
+        "Cause": 220,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 287,
+        "Cause": 376,
+        "DSC score": 0,
+        "NMI score": 0.9989260678786533,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 293,
+        "Cause": 212,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 294,
+        "Cause": 212,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 295,
+        "Cause": 636,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 296,
+        "Cause": 263,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 298,
+        "Cause": 118,
+        "DSC score": 0.05167958656330749,
+        "NMI score": 0.7003822689899248,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 302,
+        "Cause": 362,
+        "DSC score": 0,
+        "NMI score": 0.9987167283321743,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 304,
+        "Cause": 233,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 305,
+        "Cause": 148,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 307,
+        "Cause": 315,
+        "DSC score": 0.02127659574468085,
+        "NMI score": 0.9259298986572988,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 310,
+        "Cause": 500,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 312,
+        "Cause": 313,
+        "DSC score": 0.056074766355140186,
+        "NMI score": 0.8218089135390031,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 313,
+        "Cause": 312,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 315,
+        "Cause": 260,
+        "DSC score": 0.007142857142857143,
+        "NMI score": 0.8934470932428488,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 316,
+        "Cause": 536,
+        "DSC score": 0.10434782608695652,
+        "NMI score": 0.6980921032820075,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 318,
+        "Cause": 419,
+        "DSC score": 0.2,
+        "NMI score": 0.6933338413510222,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 320,
+        "Cause": 239,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 323,
+        "Cause": 235,
+        "DSC score": 0,
+        "NMI score": 0.9995057829027001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 324,
+        "Cause": 170,
+        "DSC score": 0.10461538461538461,
+        "NMI score": 0.6887748531745994,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 327,
+        "Cause": 161,
+        "DSC score": 0.06020066889632107,
+        "NMI score": 0.6854438288747972,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 328,
+        "Cause": 212,
+        "DSC score": 0.09375,
+        "NMI score": 0.7601010488059924,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 329,
+        "Cause": 404,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 330,
+        "Cause": 170,
+        "DSC score": 0.10526315789473684,
+        "NMI score": 0.9039745788489978,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 332,
+        "Cause": 212,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 333,
+        "Cause": 298,
+        "DSC score": 0.05167958656330749,
+        "NMI score": 0.6824631500798379,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 338,
+        "Cause": 333,
+        "DSC score": 0,
+        "NMI score": 0.99785718837235,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 339,
+        "Cause": 431,
+        "DSC score": 0.006644518272425249,
+        "NMI score": 0.8380707448420107,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 340,
+        "Cause": 405,
+        "DSC score": 0,
+        "NMI score": 0.999319370711659,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 341,
+        "Cause": 241,
+        "DSC score": 0.02531645569620253,
+        "NMI score": 0.6980921032820075,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 342,
+        "Cause": 241,
+        "DSC score": 0.02564102564102564,
+        "NMI score": 0.8285549670365413,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 343,
+        "Cause": 492,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 346,
+        "Cause": 482,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 348,
+        "Cause": 273,
+        "DSC score": 0.0,
+        "NMI score": 0.8967402351268776,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 352,
+        "Cause": 639,
+        "DSC score": 0.2923076923076923,
+        "NMI score": 0.6980539056844001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 353,
+        "Cause": 223,
+        "DSC score": 0.0,
+        "NMI score": 0.9850677397138684,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 354,
+        "Cause": 448,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 355,
+        "Cause": 209,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 357,
+        "Cause": 241,
+        "DSC score": 0,
+        "NMI score": 0.999198351609981,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 360,
+        "Cause": 170,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 361,
+        "Cause": 170,
+        "DSC score": 0.0972644376899696,
+        "NMI score": 0.691212392837171,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 362,
+        "Cause": 318,
+        "DSC score": 0.03529411764705882,
+        "NMI score": 0.82779526432511,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 363,
+        "Cause": 170,
+        "DSC score": 0.007142857142857143,
+        "NMI score": 0.7890482939845268,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 366,
+        "Cause": 548,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 367,
+        "Cause": 170,
+        "DSC score": 0.0,
+        "NMI score": 0.9615652114076182,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 368,
+        "Cause": 353,
+        "DSC score": 0.23107569721115537,
+        "NMI score": 0.6872640378223122,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 369,
+        "Cause": 548,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 370,
+        "Cause": 393,
+        "DSC score": 0.23412698412698413,
+        "NMI score": 0.682758918260787,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 371,
+        "Cause": 425,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 373,
+        "Cause": 212,
+        "DSC score": 0.09395973154362416,
+        "NMI score": 0.8678708958438314,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 375,
+        "Cause": 314,
+        "DSC score": 0.02027027027027027,
+        "NMI score": 0.9475676103003694,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 377,
+        "Cause": 368,
+        "DSC score": 0.038461538461538464,
+        "NMI score": 0.6980539056844001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 378,
+        "Cause": 415,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 380,
+        "Cause": 391,
+        "DSC score": 0.05583756345177665,
+        "NMI score": 0.8237691217511887,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 382,
+        "Cause": 351,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 383,
+        "Cause": 337,
+        "DSC score": 0.08333333333333333,
+        "NMI score": 0.9098591244017222,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 384,
+        "Cause": 510,
+        "DSC score": 0,
+        "NMI score": 0.9987167283321743,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 386,
+        "Cause": 358,
+        "DSC score": 0.29191321499013806,
+        "NMI score": 0.7139120161405946,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 387,
+        "Cause": 536,
+        "DSC score": 0.14084507042253522,
+        "NMI score": 0.6980921032820075,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 388,
+        "Cause": 467,
+        "DSC score": 0.012012012012012012,
+        "NMI score": 0.8045755734146051,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 389,
+        "Cause": 237,
+        "DSC score": 0.028268551236749116,
+        "NMI score": 0.9131343359611205,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 392,
+        "Cause": 132,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 393,
+        "Cause": 370,
+        "DSC score": 0.23412698412698413,
+        "NMI score": 0.682758918260787,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 394,
+        "Cause": 503,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 396,
+        "Cause": 230,
+        "DSC score": 0.045454545454545456,
+        "NMI score": 0.7123167419601801,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 397,
+        "Cause": 534,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 398,
+        "Cause": 273,
+        "DSC score": 0.005194805194805195,
+        "NMI score": 0.9744646088956411,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 400,
+        "Cause": 417,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 401,
+        "Cause": 526,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 402,
+        "Cause": 191,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 404,
+        "Cause": 416,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 405,
+        "Cause": 440,
+        "DSC score": 0.008547008547008548,
+        "NMI score": 0.8283650017976318,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 406,
+        "Cause": 425,
+        "DSC score": 0.14427860696517414,
+        "NMI score": 0.8135076147909616,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 407,
+        "Cause": 482,
+        "DSC score": 0.07407407407407407,
+        "NMI score": 0.8234127960094136,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 408,
+        "Cause": 273,
+        "DSC score": 0.10026385224274406,
+        "NMI score": 0.9056974820555199,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 409,
+        "Cause": 419,
+        "DSC score": 0,
+        "NMI score": 0.9987167283321743,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 411,
+        "Cause": 529,
+        "DSC score": 0.011904761904761904,
+        "NMI score": 0.8218698232824414,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 413,
+        "Cause": 387,
+        "DSC score": 0.03431372549019608,
+        "NMI score": 0.8224746604242822,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 414,
+        "Cause": 671,
+        "DSC score": 0.29558541266794625,
+        "NMI score": 0.6976783403430848,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 415,
+        "Cause": 377,
+        "DSC score": 0.038461538461538464,
+        "NMI score": 0.6980539056844001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 416,
+        "Cause": 132,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 419,
+        "Cause": 318,
+        "DSC score": 0.21428571428571427,
+        "NMI score": 0.6933338413510222,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 421,
+        "Cause": 204,
+        "DSC score": 0.25542168674698795,
+        "NMI score": 0.8204226394083551,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 422,
+        "Cause": 525,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 423,
+        "Cause": 439,
+        "DSC score": 0.07643312101910828,
+        "NMI score": 0.686025195252757,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 424,
+        "Cause": 364,
+        "DSC score": 0.007142857142857143,
+        "NMI score": 0.7890482939845268,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 425,
+        "Cause": 406,
+        "DSC score": 0.14427860696517414,
+        "NMI score": 0.8135076147909616,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 426,
+        "Cause": 393,
+        "DSC score": 0.06369426751592357,
+        "NMI score": 0.6891403839888095,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 428,
+        "Cause": 393,
+        "DSC score": 0.04713804713804714,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 429,
+        "Cause": 273,
+        "DSC score": 0.0783289817232376,
+        "NMI score": 0.8975519725942099,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 430,
+        "Cause": 273,
+        "DSC score": 0.24701195219123506,
+        "NMI score": 0.7064941939700035,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 431,
+        "Cause": 691,
+        "DSC score": 0.29514563106796116,
+        "NMI score": 0.6846880832745492,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 432,
+        "Cause": 306,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 433,
+        "Cause": 415,
+        "DSC score": 0.23366336633663368,
+        "NMI score": 0.6829490511143237,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 435,
+        "Cause": 380,
+        "DSC score": 0.14388489208633093,
+        "NMI score": 0.7024442746431013,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 439,
+        "Cause": 423,
+        "DSC score": 0.29714285714285715,
+        "NMI score": 0.686025195252757,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 440,
+        "Cause": 405,
+        "DSC score": 0,
+        "NMI score": 0.999319370711659,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 442,
+        "Cause": 132,
+        "DSC score": 0.06020066889632107,
+        "NMI score": 0.6871964860030493,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 443,
+        "Cause": 804,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 444,
+        "Cause": 530,
+        "DSC score": 0,
+        "NMI score": 0.9995057829027001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 445,
+        "Cause": 574,
+        "DSC score": 0.07407407407407407,
+        "NMI score": 0.818682423213686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 446,
+        "Cause": 411,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 447,
+        "Cause": 139,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 448,
+        "Cause": 132,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 449,
+        "Cause": 393,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 450,
+        "Cause": 430,
+        "DSC score": 0.0,
+        "NMI score": 0.9850677397138684,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 451,
+        "Cause": 393,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 453,
+        "Cause": 139,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 454,
+        "Cause": 555,
+        "DSC score": 0,
+        "NMI score": 0.9995057829027001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 455,
+        "Cause": 132,
+        "DSC score": 0.23412698412698413,
+        "NMI score": 0.682758918260787,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 456,
+        "Cause": 132,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 458,
+        "Cause": 139,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 460,
+        "Cause": 230,
+        "DSC score": 0.09973753280839895,
+        "NMI score": 0.9064692391767387,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 461,
+        "Cause": 132,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 462,
+        "Cause": 273,
+        "DSC score": 0.0,
+        "NMI score": 0.9751357728882118,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 463,
+        "Cause": 416,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 466,
+        "Cause": 370,
+        "DSC score": 0.23742454728370221,
+        "NMI score": 0.7008187450745592,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 467,
+        "Cause": 388,
+        "DSC score": 0.016,
+        "NMI score": 0.8045755734146051,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 469,
+        "Cause": 525,
+        "DSC score": 0.013215859030837005,
+        "NMI score": 0.8198058990805044,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 471,
+        "Cause": 368,
+        "DSC score": 0.22845691382765532,
+        "NMI score": 0.6980539056844001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 472,
+        "Cause": 431,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 473,
+        "Cause": 550,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 475,
+        "Cause": 453,
+        "DSC score": 0.0273972602739726,
+        "NMI score": 0.9011826755647048,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 476,
+        "Cause": 539,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 477,
+        "Cause": 593,
+        "DSC score": 0.10434782608695652,
+        "NMI score": 0.6980539056844001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 478,
+        "Cause": 358,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 479,
+        "Cause": 730,
+        "DSC score": 0.025157232704402517,
+        "NMI score": 0.8304060932063186,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 480,
+        "Cause": 389,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 484,
+        "Cause": 666,
+        "DSC score": 0.2923076923076923,
+        "NMI score": 0.6980539056844001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 485,
+        "Cause": 311,
+        "DSC score": 0.02564102564102564,
+        "NMI score": 0.8981804061218459,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 489,
+        "Cause": 471,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 491,
+        "Cause": 204,
+        "DSC score": 0.0,
+        "NMI score": 0.9751357728882118,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 492,
+        "Cause": 445,
+        "DSC score": 0.03773584905660377,
+        "NMI score": 0.8156560254805147,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 493,
+        "Cause": 431,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 495,
+        "Cause": 762,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 498,
+        "Cause": 392,
+        "DSC score": 0.23742454728370221,
+        "NMI score": 0.7008187450745592,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 499,
+        "Cause": 368,
+        "DSC score": 0.22937625754527163,
+        "NMI score": 0.6998525258298379,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 500,
+        "Cause": 310,
+        "DSC score": 0.006329113924050633,
+        "NMI score": 0.6868976472672957,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 501,
+        "Cause": 431,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 504,
+        "Cause": 132,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 505,
+        "Cause": 550,
+        "DSC score": 0.006644518272425249,
+        "NMI score": 0.8411037255266642,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 506,
+        "Cause": 132,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 507,
+        "Cause": 505,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 508,
+        "Cause": 415,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 509,
+        "Cause": 380,
+        "DSC score": 0.10909090909090909,
+        "NMI score": 0.8280499769658206,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 510,
+        "Cause": 362,
+        "DSC score": 0.011976047904191617,
+        "NMI score": 0.8249275116203445,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 511,
+        "Cause": 354,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 512,
+        "Cause": 416,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 513,
+        "Cause": 230,
+        "DSC score": 0.07329842931937172,
+        "NMI score": 0.9102852705085216,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 514,
+        "Cause": 509,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 515,
+        "Cause": 588,
+        "DSC score": 0.05405405405405406,
+        "NMI score": 0.7005356988906508,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 516,
+        "Cause": 665,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 517,
+        "Cause": 416,
+        "DSC score": 0.23366336633663368,
+        "NMI score": 0.6829490511143237,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 520,
+        "Cause": 404,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 521,
+        "Cause": 592,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 522,
+        "Cause": 724,
+        "DSC score": 0.29714285714285715,
+        "NMI score": 0.6854722960543554,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 523,
+        "Cause": 132,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 524,
+        "Cause": 568,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 525,
+        "Cause": 550,
+        "DSC score": 0.019801980198019802,
+        "NMI score": 0.8305916651037732,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 528,
+        "Cause": 646,
+        "DSC score": 0.29343629343629346,
+        "NMI score": 0.6998525258298379,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 530,
+        "Cause": 444,
+        "DSC score": 0,
+        "NMI score": 0.9995057829027001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 533,
+        "Cause": 786,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 534,
+        "Cause": 397,
+        "DSC score": 0.05063291139240506,
+        "NMI score": 0.8250278740063169,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 535,
+        "Cause": 538,
+        "DSC score": 0.06615776081424936,
+        "NMI score": 0.8189922084953378,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 536,
+        "Cause": 406,
+        "DSC score": 0.14427860696517414,
+        "NMI score": 0.8135076147909616,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 541,
+        "Cause": 626,
+        "DSC score": 0,
+        "NMI score": 0.9989260678786533,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 542,
+        "Cause": 407,
+        "DSC score": 0.03773584905660377,
+        "NMI score": 0.7003822689899248,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 543,
+        "Cause": 204,
+        "DSC score": 0.0,
+        "NMI score": 0.9850677397138684,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 544,
+        "Cause": 433,
+        "DSC score": 0.0,
+        "NMI score": 0.8246881857781656,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 545,
+        "Cause": 546,
+        "DSC score": 0.2751937984496124,
+        "NMI score": 0.6903724642517027,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 546,
+        "Cause": 545,
+        "DSC score": 0.2751937984496124,
+        "NMI score": 0.6903724642517027,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 547,
+        "Cause": 545,
+        "DSC score": 0.2751937984496124,
+        "NMI score": 0.6903724642517027,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 548,
+        "Cause": 425,
+        "DSC score": 0.13399503722084366,
+        "NMI score": 0.8147208147125825,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 549,
+        "Cause": 482,
+        "DSC score": 0.029484029484029485,
+        "NMI score": 0.8148006477902886,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 550,
+        "Cause": 545,
+        "DSC score": 0.2751937984496124,
+        "NMI score": 0.6903724642517027,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 551,
+        "Cause": 653,
+        "DSC score": 0.29457364341085274,
+        "NMI score": 0.6998772541157932,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 552,
+        "Cause": 735,
+        "DSC score": 0.2918287937743191,
+        "NMI score": 0.7021049930576487,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 553,
+        "Cause": 662,
+        "DSC score": 0,
+        "NMI score": 0.9995057829027001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 554,
+        "Cause": 602,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 555,
+        "Cause": 454,
+        "DSC score": 0,
+        "NMI score": 0.9995057829027001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 557,
+        "Cause": 617,
+        "DSC score": 0.2376237623762376,
+        "NMI score": 0.7498320972257256,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 558,
+        "Cause": 538,
+        "DSC score": 0.15873015873015872,
+        "NMI score": 0.6881128078024733,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 559,
+        "Cause": 506,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 561,
+        "Cause": 449,
+        "DSC score": 0.2350597609561753,
+        "NMI score": 0.686770358185902,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 563,
+        "Cause": 385,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 565,
+        "Cause": 204,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 569,
+        "Cause": 499,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 571,
+        "Cause": 573,
+        "DSC score": 0.29277566539923955,
+        "NMI score": 0.6829490511143237,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 573,
+        "Cause": 439,
+        "DSC score": 0.29389312977099236,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 574,
+        "Cause": 481,
+        "DSC score": 0.09174311926605505,
+        "NMI score": 0.8241823430620914,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 576,
+        "Cause": 536,
+        "DSC score": 0.011799410029498525,
+        "NMI score": 0.6989476300049051,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 577,
+        "Cause": 536,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 578,
+        "Cause": 449,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 579,
+        "Cause": 452,
+        "DSC score": 0.2923076923076923,
+        "NMI score": 0.6980539056844001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 580,
+        "Cause": 499,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 583,
+        "Cause": 515,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 585,
+        "Cause": 442,
+        "DSC score": 0.2345924453280318,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 587,
+        "Cause": 678,
+        "DSC score": 0.08253968253968254,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 588,
+        "Cause": 515,
+        "DSC score": 0.2923076923076923,
+        "NMI score": 0.7005356988906508,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 589,
+        "Cause": 562,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 590,
+        "Cause": 316,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 591,
+        "Cause": 482,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 594,
+        "Cause": 339,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 595,
+        "Cause": 611,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 596,
+        "Cause": 431,
+        "DSC score": 0.008602150537634409,
+        "NMI score": 0.8203532245505852,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 597,
+        "Cause": 459,
+        "DSC score": 0.08205128205128205,
+        "NMI score": 0.8268648525011827,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 598,
+        "Cause": 380,
+        "DSC score": 0.07407407407407407,
+        "NMI score": 0.7100479066487777,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 599,
+        "Cause": 666,
+        "DSC score": 0.006644518272425249,
+        "NMI score": 0.8241297656751138,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 600,
+        "Cause": 562,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 601,
+        "Cause": 702,
+        "DSC score": 0.29389312977099236,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 603,
+        "Cause": 617,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 604,
+        "Cause": 321,
+        "DSC score": 0.00881057268722467,
+        "NMI score": 0.8415187350167056,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 605,
+        "Cause": 481,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 606,
+        "Cause": 431,
+        "DSC score": 0.03036876355748373,
+        "NMI score": 0.817699648413363,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 607,
+        "Cause": 431,
+        "DSC score": 0.017738359201773836,
+        "NMI score": 0.8272786130065175,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 608,
+        "Cause": 243,
+        "DSC score": 0,
+        "NMI score": 0.9990366957261732,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 609,
+        "Cause": 380,
+        "DSC score": 0.135,
+        "NMI score": 0.8032572673671013,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 610,
+        "Cause": 573,
+        "DSC score": 0.29277566539923955,
+        "NMI score": 0.6829490511143237,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 611,
+        "Cause": 238,
+        "DSC score": 0.029556650246305417,
+        "NMI score": 0.8138038012414358,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 612,
+        "Cause": 418,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 616,
+        "Cause": 562,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 617,
+        "Cause": 552,
+        "DSC score": 0.2737642585551331,
+        "NMI score": 0.7066799422505248,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 618,
+        "Cause": 675,
+        "DSC score": 0,
+        "NMI score": 0.9989260678786533,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 620,
+        "Cause": 545,
+        "DSC score": 0.00881057268722467,
+        "NMI score": 0.8415187350167056,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 621,
+        "Cause": 399,
+        "DSC score": 0,
+        "NMI score": 0.9976397345543686,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 622,
+        "Cause": 431,
+        "DSC score": 0.017699115044247787,
+        "NMI score": 0.8265517907841347,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 623,
+        "Cause": 666,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 625,
+        "Cause": 535,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 626,
+        "Cause": 541,
+        "DSC score": 0.0,
+        "NMI score": 0.8300990372424525,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 627,
+        "Cause": 602,
+        "DSC score": 0.01485148514851485,
+        "NMI score": 0.8203740309707811,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 628,
+        "Cause": 606,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 630,
+        "Cause": 536,
+        "DSC score": 0.10619469026548672,
+        "NMI score": 0.6990421035919495,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 631,
+        "Cause": 515,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 632,
+        "Cause": 538,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 633,
+        "Cause": 636,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 634,
+        "Cause": 113,
+        "DSC score": 0.29389312977099236,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 637,
+        "Cause": 113,
+        "DSC score": 0.012422360248447204,
+        "NMI score": 0.8159481012481812,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 638,
+        "Cause": 665,
+        "DSC score": 0.007532956685499058,
+        "NMI score": 0.8207117477931706,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 639,
+        "Cause": 352,
+        "DSC score": 0.2923076923076923,
+        "NMI score": 0.6980539056844001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 640,
+        "Cause": 609,
+        "DSC score": 0.12612612612612611,
+        "NMI score": 0.8281882171210234,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 641,
+        "Cause": 376,
+        "DSC score": 0.25,
+        "NMI score": 0.8236421274940046,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 642,
+        "Cause": 445,
+        "DSC score": 0.1206896551724138,
+        "NMI score": 0.7022340914093823,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 643,
+        "Cause": 769,
+        "DSC score": 0.018808777429467086,
+        "NMI score": 0.7060117922601984,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 645,
+        "Cause": 668,
+        "DSC score": 0.2923076923076923,
+        "NMI score": 0.6980539056844001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 647,
+        "Cause": 547,
+        "DSC score": 0.008908685968819599,
+        "NMI score": 0.8365625968641773,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 648,
+        "Cause": 789,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 649,
+        "Cause": 705,
+        "DSC score": 0.013245033112582781,
+        "NMI score": 0.8309061481506234,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 651,
+        "Cause": 666,
+        "DSC score": 0.2923076923076923,
+        "NMI score": 0.6980539056844001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 653,
+        "Cause": 551,
+        "DSC score": 0.29457364341085274,
+        "NMI score": 0.6998772541157932,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 654,
+        "Cause": 423,
+        "DSC score": 0.08253968253968254,
+        "NMI score": 0.6980539056844001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 655,
+        "Cause": 571,
+        "DSC score": 0.2928709055876686,
+        "NMI score": 0.6997148938227902,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 656,
+        "Cause": 615,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 657,
+        "Cause": 380,
+        "DSC score": 0.047619047619047616,
+        "NMI score": 0.8237691217511887,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 658,
+        "Cause": 709,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 660,
+        "Cause": 439,
+        "DSC score": 0.29389312977099236,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 662,
+        "Cause": 553,
+        "DSC score": 0,
+        "NMI score": 0.9995057829027001,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 663,
+        "Cause": 380,
+        "DSC score": 0.08888888888888889,
+        "NMI score": 0.7022129836466832,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 664,
+        "Cause": 672,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 667,
+        "Cause": 683,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 669,
+        "Cause": 649,
+        "DSC score": 0.006644518272425249,
+        "NMI score": 0.8248806238156406,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 671,
+        "Cause": 414,
+        "DSC score": 0.07643312101910828,
+        "NMI score": 0.6976783403430848,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 674,
+        "Cause": 651,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 675,
+        "Cause": 376,
+        "DSC score": 0.026200873362445413,
+        "NMI score": 0.6957590164640731,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 676,
+        "Cause": 597,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 679,
+        "Cause": 435,
+        "DSC score": 0.019753086419753086,
+        "NMI score": 0.8231402094680921,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 680,
+        "Cause": 839,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 682,
+        "Cause": 627,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 684,
+        "Cause": 690,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 685,
+        "Cause": 403,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 686,
+        "Cause": 738,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 688,
+        "Cause": 687,
+        "DSC score": 0.013245033112582781,
+        "NMI score": 0.6862042793546861,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 689,
+        "Cause": 736,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 691,
+        "Cause": 431,
+        "DSC score": 0.29514563106796116,
+        "NMI score": 0.6846880832745492,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 694,
+        "Cause": 652,
+        "DSC score": 0.02631578947368421,
+        "NMI score": 0.8405204401048747,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 695,
+        "Cause": 738,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 696,
+        "Cause": 557,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 698,
+        "Cause": 635,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 699,
+        "Cause": 700,
+        "DSC score": 0.0189873417721519,
+        "NMI score": 0.8406423279752321,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 700,
+        "Cause": 699,
+        "DSC score": 0,
+        "NMI score": 0.9987167283321743,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 701,
+        "Cause": 723,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 702,
+        "Cause": 469,
+        "DSC score": 0.29343629343629346,
+        "NMI score": 0.6980921032820075,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 703,
+        "Cause": 709,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 704,
+        "Cause": 666,
+        "DSC score": 0.2923076923076923,
+        "NMI score": 0.7005356988906508,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 711,
+        "Cause": 819,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 712,
+        "Cause": 659,
+        "DSC score": 0.006644518272425249,
+        "NMI score": 0.7042887149780646,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 713,
+        "Cause": 712,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 714,
+        "Cause": 697,
+        "DSC score": 0.29343629343629346,
+        "NMI score": 0.6998525258298379,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 715,
+        "Cause": 783,
+        "DSC score": 0.013029315960912053,
+        "NMI score": 0.8107608312476223,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 721,
+        "Cause": 710,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 724,
+        "Cause": 709,
+        "DSC score": 0.2923076923076923,
+        "NMI score": 0.7033596015942416,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 726,
+        "Cause": 550,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 727,
+        "Cause": 707,
+        "DSC score": 0.29714285714285715,
+        "NMI score": 0.6854722960543554,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 728,
+        "Cause": 669,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 731,
+        "Cause": 666,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 732,
+        "Cause": 750,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 733,
+        "Cause": 740,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 734,
+        "Cause": 730,
+        "DSC score": 0,
+        "NMI score": 0.9987167283321743,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 735,
+        "Cause": 635,
+        "DSC score": 0.2824427480916031,
+        "NMI score": 0.6805678074829207,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 739,
+        "Cause": 599,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 741,
+        "Cause": 413,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 744,
+        "Cause": 660,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 745,
+        "Cause": 564,
+        "DSC score": 0.08284023668639054,
+        "NMI score": 0.6980921032820075,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 746,
+        "Cause": 660,
+        "DSC score": 0.03625377643504532,
+        "NMI score": 0.7003822689899248,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 748,
+        "Cause": 637,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 751,
+        "Cause": 564,
+        "DSC score": 0.08253968253968254,
+        "NMI score": 0.6863660287495905,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 752,
+        "Cause": 692,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 754,
+        "Cause": 666,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 755,
+        "Cause": 803,
+        "DSC score": 0.29714285714285715,
+        "NMI score": 0.6854722960543554,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 756,
+        "Cause": 691,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 759,
+        "Cause": 781,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 760,
+        "Cause": 749,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 766,
+        "Cause": 807,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 767,
+        "Cause": 819,
+        "DSC score": 0.006644518272425249,
+        "NMI score": 0.7042887149780646,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 772,
+        "Cause": 413,
+        "DSC score": 0.024630541871921183,
+        "NMI score": 0.8130373477809387,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 775,
+        "Cause": 807,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 779,
+        "Cause": 479,
+        "DSC score": 0.028037383177570093,
+        "NMI score": 0.6995652070895974,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 782,
+        "Cause": 807,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 790,
+        "Cause": 692,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 792,
+        "Cause": 709,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 793,
+        "Cause": 452,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 794,
+        "Cause": 819,
+        "DSC score": 0.29714285714285715,
+        "NMI score": 0.6854722960543554,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 796,
+        "Cause": 769,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 797,
+        "Cause": 798,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 798,
+        "Cause": 751,
+        "DSC score": 0.006644518272425249,
+        "NMI score": 0.7061359038260339,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 808,
+        "Cause": 809,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 809,
+        "Cause": 784,
+        "DSC score": 0.006644518272425249,
+        "NMI score": 0.7042887149780646,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 810,
+        "Cause": 469,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 811,
+        "Cause": 431,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 812,
+        "Cause": 691,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 814,
+        "Cause": 807,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 821,
+        "Cause": 804,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 824,
+        "Cause": 845,
+        "DSC score": 0.006644518272425249,
+        "NMI score": 0.8237691217511887,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 830,
+        "Cause": 772,
+        "DSC score": 0,
+        "NMI score": 0.9979891093122597,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 835,
+        "Cause": 742,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 836,
+        "Cause": 725,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 838,
+        "Cause": 779,
+        "DSC score": 0,
+        "NMI score": 0.9987167283321743,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 844,
+        "Cause": 767,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 848,
+        "Cause": 819,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 849,
+        "Cause": 829,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 857,
+        "Cause": 852,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 867,
+        "Cause": 765,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 868,
+        "Cause": 431,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 871,
+        "Cause": 488,
+        "DSC score": 0,
+        "NMI score": 0.9990366957261732,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 875,
+        "Cause": 785,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 876,
+        "Cause": 856,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 877,
+        "Cause": 707,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 879,
+        "Cause": 845,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 880,
+        "Cause": 537,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 881,
+        "Cause": 847,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 883,
+        "Cause": 856,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 884,
+        "Cause": 885,
+        "DSC score": 0.006644518272425249,
+        "NMI score": 0.8241623769084147,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 885,
+        "Cause": 743,
+        "DSC score": 0.013245033112582781,
+        "NMI score": 0.8244861444791218,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 886,
+        "Cause": 452,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 887,
+        "Cause": 850,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 888,
+        "Cause": 824,
+        "DSC score": 0,
+        "NMI score": 0.9976140172827087,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 889,
+        "Cause": 641,
+        "DSC score": 0,
+        "NMI score": 0.9989260678786533,
+        "Responsibility score": 1
+    }
+]

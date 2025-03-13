@@ -1,0 +1,112 @@
+[
+    {
+        "Node": 1,
+        "Actual cause": 5,
+        "Contingency set": [
+            6
+        ],
+        "DSC score": 0.2222222222222222,
+        "NMI score": 0.8259703347409751,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 2,
+        "Actual cause": 3,
+        "Contingency set": [
+            4
+        ],
+        "DSC score": 0.2222222222222222,
+        "NMI score": 0.8610772768047411,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 9,
+        "Actual cause": 31,
+        "Contingency set": [
+            33
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.5717271263276286,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 17,
+        "Actual cause": 6,
+        "Contingency set": [
+            7
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.7770154537602497,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 27,
+        "Actual cause": 30,
+        "Contingency set": [
+            34
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.594760671128185,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 31,
+        "Actual cause": 9,
+        "Contingency set": [
+            33
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.569744068729803,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 15,
+        "Actual cause": 33,
+        "Contingency set": [
+            34
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.571551744023132,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 16,
+        "Actual cause": 33,
+        "Contingency set": [
+            34
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.571551744023132,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 19,
+        "Actual cause": 33,
+        "Contingency set": [
+            34
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.571551744023132,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 21,
+        "Actual cause": 33,
+        "Contingency set": [
+            34
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.571551744023132,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 23,
+        "Actual cause": 33,
+        "Contingency set": [
+            34
+        ],
+        "DSC score": 0.0,
+        "NMI score": 0.571551744023132,
+        "Responsibility score": 0.5
+    }
+]
