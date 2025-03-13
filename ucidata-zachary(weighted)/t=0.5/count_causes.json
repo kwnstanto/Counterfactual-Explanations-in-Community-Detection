@@ -1,0 +1,172 @@
+[
+    {
+        "Node": 1,
+        "Cause": 3,
+        "DSC score": 0.42105263157894735,
+        "NMI score": 0.9300947185345427,
+        "Old Weight": 0.71429,
+        "New Weight": 0.270823,
+        "Weight Reduction": 0.443467,
+        "Responsibility score": 0.6927764888286327
+    },
+    {
+        "Node": 1,
+        "Cause": 2,
+        "DSC score": 0.42105263157894735,
+        "NMI score": 0.9300947185345427,
+        "Old Weight": 0.57143,
+        "New Weight": 0.232213,
+        "Weight Reduction": 0.339217,
+        "Responsibility score": 0.7467049776100512
+    },
+    {
+        "Node": 5,
+        "Cause": 11,
+        "DSC score": 0.0,
+        "NMI score": 0.9300869007075192,
+        "Old Weight": 0.42857,
+        "New Weight": 0.10798,
+        "Weight Reduction": 0.32059,
+        "Responsibility score": 0.7572372954512756
+    },
+    {
+        "Node": 5,
+        "Cause": 7,
+        "DSC score": 0.125,
+        "NMI score": 0.7839658634255189,
+        "Old Weight": 0.28571,
+        "New Weight": 0.162944,
+        "Weight Reduction": 0.122766,
+        "Responsibility score": 0.8906575368331425
+    },
+    {
+        "Node": 9,
+        "Cause": 34,
+        "DSC score": 0.14285714285714285,
+        "NMI score": 0.8217878491760167,
+        "Old Weight": 0.57143,
+        "New Weight": 0.14788,
+        "Weight Reduction": 0.42355,
+        "Responsibility score": 0.7024691791647641
+    },
+    {
+        "Node": 10,
+        "Cause": 34,
+        "DSC score": 0.0,
+        "NMI score": 0.959777326298069,
+        "Old Weight": 0.28571,
+        "New Weight": 0.13002,
+        "Weight Reduction": 0.15569,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 12,
+        "Cause": 1,
+        "DSC score": 0.0,
+        "NMI score": 0.9624796592261363,
+        "Old Weight": 0.42857,
+        "New Weight": 0.218052,
+        "Weight Reduction": 0.210518,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 24,
+        "Cause": 33,
+        "DSC score": 0.1111111111111111,
+        "NMI score": 0.8912109182851043,
+        "Old Weight": 0.71429,
+        "New Weight": 0.690748,
+        "Weight Reduction": 0.023542,
+        "Responsibility score": 0.9769994782822786
+    },
+    {
+        "Node": 24,
+        "Cause": 34,
+        "DSC score": 0.1111111111111111,
+        "NMI score": 0.8912109182851043,
+        "Old Weight": 0.57143,
+        "New Weight": 0.417691,
+        "Weight Reduction": 0.153739,
+        "Responsibility score": 0.8667471585861273
+    },
+    {
+        "Node": 24,
+        "Cause": 30,
+        "DSC score": 0.1111111111111111,
+        "NMI score": 0.9298827483716529,
+        "Old Weight": 0.42857,
+        "New Weight": 0.01695,
+        "Weight Reduction": 0.41162,
+        "Responsibility score": 0.7084059449426899
+    },
+    {
+        "Node": 26,
+        "Cause": 32,
+        "DSC score": 0.3,
+        "NMI score": 1.0,
+        "Old Weight": 1.0,
+        "New Weight": 0.59668,
+        "Weight Reduction": 0.40332,
+        "Responsibility score": 0.712595844141037
+    },
+    {
+        "Node": 28,
+        "Cause": 34,
+        "DSC score": 0.1111111111111111,
+        "NMI score": 0.8912109182851043,
+        "Old Weight": 0.57143,
+        "New Weight": 0.539622,
+        "Weight Reduction": 0.031808,
+        "Responsibility score": 0.9691725592358268
+    },
+    {
+        "Node": 29,
+        "Cause": 32,
+        "DSC score": 0.0,
+        "NMI score": 0.9745001117476022,
+        "Old Weight": 0.28571,
+        "New Weight": 0.167966,
+        "Weight Reduction": 0.117744,
+        "Responsibility score": 1
+    },
+    {
+        "Node": 30,
+        "Cause": 33,
+        "DSC score": 0.3,
+        "NMI score": 0.7766591594501469,
+        "Old Weight": 0.57143,
+        "New Weight": 0.128349,
+        "Weight Reduction": 0.443081,
+        "Responsibility score": 0.6929617949373597
+    },
+    {
+        "Node": 32,
+        "Cause": 26,
+        "DSC score": 0.3,
+        "NMI score": 1.0,
+        "Old Weight": 1.0,
+        "New Weight": 0.448242,
+        "Weight Reduction": 0.551758,
+        "Responsibility score": 0.6444303815414517
+    },
+    {
+        "Node": 32,
+        "Cause": 25,
+        "DSC score": 0.3,
+        "NMI score": 0.8752421895531798,
+        "Old Weight": 0.28571,
+        "New Weight": 0.009486,
+        "Weight Reduction": 0.276224,
+        "Responsibility score": 0.7835615064440098
+    },
+    {
+        "Node": 32,
+        "Cause": 29,
+        "DSC score": 0.3,
+        "NMI score": 0.7977372715201794,
+        "Old Weight": 0.28571,
+        "New Weight": 0.150807,
+        "Weight Reduction": 0.134903,
+        "Responsibility score": 0.8811325725634702
+    }
+]

@@ -1,0 +1,197 @@
+[
+    {
+        "Node": 5,
+        "Fixed_node_e": 11,
+        "Contingency set": [
+            7
+        ],
+        "Removed nodes": [],
+        "Binary": 7,
+        "DSC score": 0.0,
+        "NMI score": 0.9300869007075192,
+        "Old Weight": 0.28571,
+        "New weight": 0.243858,
+        "Weight reduction": 0.041852,
+        "Responsibility score": 0.6800768758900505
+    },
+    {
+        "Node": 11,
+        "Fixed_node_e": 5,
+        "Contingency set": [
+            6
+        ],
+        "Removed nodes": [],
+        "Binary": 6,
+        "DSC score": 0.125,
+        "NMI score": 0.8931717931537697,
+        "Old Weight": 0.42857,
+        "New weight": 0.233537,
+        "Weight reduction": 0.195033,
+        "Responsibility score": 0.6159141120089086
+    },
+    {
+        "Node": 13,
+        "Fixed_node_e": 4,
+        "Contingency set": [
+            1
+        ],
+        "Removed nodes": [],
+        "Binary": 1,
+        "DSC score": 0.5,
+        "NMI score": 0.7281737874974616,
+        "Old Weight": 0.14286,
+        "New weight": 0.080359,
+        "Weight reduction": 0.062501,
+        "Responsibility score": 0.6706588753989582
+    },
+    {
+        "Node": 14,
+        "Fixed_node_e": 2,
+        "Contingency set": [
+            1
+        ],
+        "Removed nodes": [],
+        "Binary": 1,
+        "DSC score": 0.6666666666666666,
+        "NMI score": 0.6338915607265959,
+        "Old Weight": 0.42857,
+        "New weight": 5.2e-05,
+        "Weight reduction": 0.428518,
+        "Responsibility score": 0.46667736913433217
+    },
+    {
+        "Node": 20,
+        "Fixed_node_e": 1,
+        "Contingency set": [
+            2
+        ],
+        "Removed nodes": [],
+        "Binary": 2,
+        "DSC score": 0.0,
+        "NMI score": 0.7555404302358899,
+        "Old Weight": 0.28571,
+        "New weight": 0.136717,
+        "Weight reduction": 0.148993,
+        "Responsibility score": 0.6970083703735199
+    },
+    {
+        "Node": 22,
+        "Fixed_node_e": 1,
+        "Contingency set": [
+            2
+        ],
+        "Removed nodes": [],
+        "Binary": 2,
+        "DSC score": 0.75,
+        "NMI score": 0.7620842851283858,
+        "Old Weight": 0.28571,
+        "New weight": 3.5e-05,
+        "Weight reduction": 0.285675,
+        "Responsibility score": 0.6363812814809866
+    },
+    {
+        "Node": 17,
+        "Fixed_node_e": 6,
+        "Contingency set": [
+            7
+        ],
+        "Removed nodes": [],
+        "Binary": 7,
+        "DSC score": 0.6153846153846154,
+        "NMI score": 0.8394165165282764,
+        "Old Weight": 0.42857,
+        "New weight": 0.110497,
+        "Weight reduction": 0.318073,
+        "Responsibility score": 0.572526841489646
+    },
+    {
+        "Node": 15,
+        "Fixed_node_e": 33,
+        "Contingency set": [
+            34
+        ],
+        "Removed nodes": [],
+        "Binary": 34,
+        "DSC score": 0.7857142857142857,
+        "NMI score": 0.9095480563929159,
+        "Old Weight": 0.28571,
+        "New weight": 0.0,
+        "Weight reduction": 0.28571,
+        "Responsibility score": 0.5833352777842593
+    },
+    {
+        "Node": 16,
+        "Fixed_node_e": 34,
+        "Contingency set": [
+            33
+        ],
+        "Removed nodes": [],
+        "Binary": 33,
+        "DSC score": 0.9166666666666666,
+        "NMI score": 0.9095480563929159,
+        "Old Weight": 0.42857,
+        "New weight": 0.0,
+        "Weight reduction": 0.42857,
+        "Responsibility score": 0.5
+    },
+    {
+        "Node": 19,
+        "Fixed_node_e": 34,
+        "Contingency set": [
+            33
+        ],
+        "Removed nodes": [],
+        "Binary": 33,
+        "DSC score": 0.7857142857142857,
+        "NMI score": 0.9095480563929159,
+        "Old Weight": 0.14286,
+        "New weight": 0.0,
+        "Weight reduction": 0.14286,
+        "Responsibility score": 0.7000007000007
+    },
+    {
+        "Node": 21,
+        "Fixed_node_e": 33,
+        "Contingency set": [
+            34
+        ],
+        "Removed nodes": [],
+        "Binary": 34,
+        "DSC score": 0.7857142857142857,
+        "NMI score": 0.8733142060797552,
+        "Old Weight": 0.14286,
+        "New weight": 0.0,
+        "Weight reduction": 0.14286,
+        "Responsibility score": 0.6363630578517655
+    },
+    {
+        "Node": 23,
+        "Fixed_node_e": 34,
+        "Contingency set": [
+            33
+        ],
+        "Removed nodes": [],
+        "Binary": 33,
+        "DSC score": 0.7857142857142857,
+        "NMI score": 0.9095480563929159,
+        "Old Weight": 0.28571,
+        "New weight": 0.0,
+        "Weight reduction": 0.28571,
+        "Responsibility score": 0.5833352777842593
+    },
+    {
+        "Node": 27,
+        "Fixed_node_e": 30,
+        "Contingency set": [
+            34
+        ],
+        "Removed nodes": [],
+        "Binary": 34,
+        "DSC score": 0.7857142857142857,
+        "NMI score": 0.8091677697322092,
+        "Old Weight": 0.28571,
+        "New weight": 1e-06,
+        "Weight reduction": 0.285709,
+        "Responsibility score": 0.5384626568070565
+    }
+]
