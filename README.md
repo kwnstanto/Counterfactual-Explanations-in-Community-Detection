@@ -104,6 +104,7 @@
 		- Partition: community structure found from Louvain method
 		- Neighbors: every each connections for each node (the neighborhood of each node)
 		- Endogenous_set: the Ee set for each node. Contains every intra-community edge connection for each node.
+		- Weights: contains the weights of every neighbor for every node of the network. It's sorted in descending order.
 
 	- t=0.3 folder: our results (for every node in the graph) for threshold τ=0.3 for every value l.
 	- t=0.5 folder: our results (for every node in the graph) for threshold τ=0.5 for every value l.
