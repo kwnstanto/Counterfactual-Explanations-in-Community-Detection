@@ -33,7 +33,19 @@
 	- t=0.8 folder: our results (for every node in the graph) for threshold τ=0.8 for every value l.
 
 	words.py: the main python file of our code for word dataset. Testing for every node.
-	
+ 
+ -- moreno_train folder:
+	-json_files folder: contains the saved dictionaries:
+		- Partition: community structure found from Louvain method
+		- Neighbors: every each connections for each node (the neighborhood of each node)
+		- Endogenous_set: the Ee set for each node. Contains every intra-community edge connection for each node.
+  
+  	- t=0.3 folder: our results (for every node in the graph) for threshold τ=0.3 for every value l.
+	- t=0.5 folder: our results (for every node in the graph) for threshold τ=0.5 for every value l.
+	- t=0.8 folder: our results (for every node in the graph) for threshold τ=0.8 for every value l.
+ 
+	train_bombing.py: the main python file of our code for moreno_train dataset. Testing for every node.
+  
 -- Facebook(fb-75) folder:
 	-json_files folder: contains the saved dictionaries:
 		- Partition: community structure found from greedy method
